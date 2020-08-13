@@ -9,9 +9,9 @@ Review the [Project 2 requirements](https://tmdarneille.gitbook.io/sei-ga-sea/11
 In this space below, list **THREE** ideas for your Project 2. For each idea, include [user stories](https://revelry.co/user-stories-that-dont-suck/) for each idea and a link to the API(s) you want to use for it.
 
 --------------------------------------------------------
-1. 
-2. 
-3.
+1. Dota 2 is constantly growing and new players need to know the heroes in the game, I want to make a web page that helps infrom new players of all the differnt types of heroes in dota 2, so i can help educate the community  https://rapidapi.com/stefan.skliarov/api/Dota2
+2. I like all differnt types of music and i want to share some great rab battle bar moments. have a picture of the artist and when clicked on shows some of their greatest bars ever performed. This is for educating the world that great lysicism still exist. cant find api??
+3. just throwing another video game api idea, this is another great game that people should know about.  https://docs.mhw-db.com/
 ---------------------------------------------------------
 
 Make a PR when you're done!
