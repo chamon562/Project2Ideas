@@ -13,6 +13,7 @@ In this space below, list **THREE** ideas for your Project 2. For each idea, inc
 2. I like all differnt types of music and i want to share some great rab battle bar moments. have a picture of the artist and when clicked on shows some of their greatest bars ever performed. This is for educating the world that great lysicism still exist. cant find api??
 3. just throwing another video game api idea, this is another great game that people should know about.  https://docs.mhw-db.com/
 4. this is about rappers the world show know and recognise them for their greatness https://public.opendatasoft.com/explore/dataset/rapworld/api/
+5. this about insperational quotes from bruce lee https://en.wikiquote.org/w/api.php?action=parse&format=json&page=Bruce%20Lee
 ---------------------------------------------------------
 
 Make a PR when you're done!
